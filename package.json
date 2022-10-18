@@ -2,7 +2,7 @@
   "name": "ansa-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html --open",
     "clean": "rm -rf dist/*",
